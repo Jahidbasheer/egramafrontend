@@ -1,0 +1,11 @@
+@import "tailwindcss";
+*{
+  font-family: "Unna", serif;
+  
+}
+#homebg{
+  background-image: url('./assets/bg1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
